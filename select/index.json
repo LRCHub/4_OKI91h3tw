@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アンマー",
+  "base_artist": "かりゆし58",
+  "createdAt": "2025-12-29T21:30:01.348115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンマー",
+      "artist": "Little whisper",
+      "has_synced": false,
+      "path": "select/01_アンマー_Little_whisper.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンマー～母唄～",
+      "artist": "RSP",
+      "has_synced": true,
+      "path": "select/02_アンマー~母唄~_RSP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンマー",
+      "artist": "かりゆし58",
+      "has_synced": false,
+      "path": "select/pl_01_アンマー_かりゆし58.txt"
+    }
+  ]
+}
